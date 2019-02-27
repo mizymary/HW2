@@ -6,7 +6,7 @@
             </titleStmt>
             <respStmt>
                 <persName>Мария Мизерная</persName>
-                <resp>Создала документ в TEI, выделила в тексте прямую речь)</resp>
+                <resp>Создала документ в TEI, выделила в тексте прямую речь</resp>
             </respStmt>
          </fileDesc>
     </teiHeader>
